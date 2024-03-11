@@ -21,7 +21,7 @@ This repository complements my LinkedIn Learning Series on Data Analytics Theory
 
 - **Data Selection Guide** - Covers details about the data selection journey during the process of data analytics. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_6-data-analytics-data-selection-guide-activity-7171751013685690368-5F9j?utm_source=share&utm_medium=member_desktop)
 
-- - **Data Varieties, Types, and Formats** - Covers details about the types of data (Static, Dynamic) with different data types as well as common time formats. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_7-data-analytics-data-varieties-types-activity-7172829374486921216-QyKP?utm_source=share&utm_medium=member_desktop)
+- **Data Varieties, Types, and Formats** - Covers details about the types of data (Static, Dynamic) with different data types as well as common time formats. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_7-data-analytics-data-varieties-types-activity-7172829374486921216-QyKP?utm_source=share&utm_medium=member_desktop)
 
 
 ## 🤗 Vote of Thanks!
