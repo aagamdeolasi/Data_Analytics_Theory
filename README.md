@@ -23,6 +23,8 @@ This repository complements my LinkedIn Learning Series on Data Analytics Theory
 
 - **Data Varieties, Types, and Formats** - Covers details about the types of data (Static, Dynamic) with different data types as well as common time formats. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_7-data-analytics-data-varieties-types-activity-7172829374486921216-QyKP?utm_source=share&utm_medium=member_desktop)
 
+- **Structured Data & Files** - Covers details about the Structured Data, its importance, and various file types falling under the structured data type. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_8-data-analytics-structured-data-files-activity-7173568331046739968-WRI4?utm_source=share&utm_medium=member_desktop)
+
 
 ## 🤗 Vote of Thanks!
 I extend my heartfelt gratitude to the incredible LinkedIn community for the overwhelming support and engagement. Your likes, comments, and shares fuel my passion for sharing knowledge. Let's continue this learning journey together!
