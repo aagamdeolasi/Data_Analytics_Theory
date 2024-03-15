@@ -25,6 +25,7 @@ This repository complements my LinkedIn Learning Series on Data Analytics Theory
 
 - **Structured Data & Files** - Covers details about the Structured Data, its importance, and various file types falling under the structured data type. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_8-data-analytics-structured-data-files-activity-7173568331046739968-WRI4?utm_source=share&utm_medium=member_desktop)
 
+- **Unstructured Data & Files** - Covers details about the Unstructured Data, its sources, and various file types (examples) falling under the unstructured data type. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_9-data-analytics-unstructured-data-activity-7174326239824941059-QB7l?utm_source=share&utm_medium=member_desktop)
 
 ## 🤗 Vote of Thanks!
 I extend my heartfelt gratitude to the incredible LinkedIn community for the overwhelming support and engagement. Your likes, comments, and shares fuel my passion for sharing knowledge. Let's continue this learning journey together!
