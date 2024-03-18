@@ -27,6 +27,8 @@ This repository complements my LinkedIn Learning Series on Data Analytics Theory
 
 - **Unstructured Data & Files** - Covers details about the Unstructured Data, its sources, and various file types (examples) falling under the unstructured data type. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_9-data-analytics-unstructured-data-activity-7174326239824941059-QB7l?utm_source=share&utm_medium=member_desktop)
 
+- **ETL VS ELT** - Explores the most important process in the data preparation phase ETL & ELT process in very easy and simplistic language. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_10-data-analytics-etl-vs-elt-activity-7175396016085487617-LWCx?utm_source=share&utm_medium=member_desktop)
+
 ## 🤗 Vote of Thanks!
 I extend my heartfelt gratitude to the incredible LinkedIn community for the overwhelming support and engagement. Your likes, comments, and shares fuel my passion for sharing knowledge. Let's continue this learning journey together!
 
