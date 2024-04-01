@@ -31,7 +31,7 @@ This repository complements my LinkedIn Learning Series on Data Analytics Theory
 
 - **Excel Data Transformation** - Guides in detail about the process of Data Transformation using the Excel tool with topics like Understanding Excel's role in data transformation, Data Conversion, Conditional Formatting, Combining Datasets, Data Calculations, Excel Functions & Errors, Advanced topics like Pivot Tables and Pivot Charts. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_11-data-analytics-excel-data-transformation-activity-7176178578999394306-Wtyf?utm_source=share&utm_medium=member_desktop)
 
-- **Statistics** - Covers details about the concept of Statistics and its type as well as usage along with big data. [![Static Badge](https://www.linkedin.com/posts/aagam-deolasi_12-data-analytics-statistics-activity-7180434659799957504-wP1n?utm_source=share&utm_medium=member_desktop)
+- **Statistics** - Covers details about the concept of Statistics and its type as well as usage along with big data. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_12-data-analytics-statistics-activity-7180434659799957504-wP1n?utm_source=share&utm_medium=member_desktop)
 
 
 ## 🤗 Vote of Thanks!
