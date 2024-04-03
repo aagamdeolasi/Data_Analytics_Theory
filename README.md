@@ -33,6 +33,7 @@ This repository complements my LinkedIn Learning Series on Data Analytics Theory
 
 - **Statistics** - Covers details about the concept of Statistics and its type as well as usage along with big data. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_12-data-analytics-statistics-activity-7180434659799957504-wP1n?utm_source=share&utm_medium=member_desktop)
 
+- **Data Visualization Guide** - Introduces the data visualization chart types like Line, Column, Bar, Pie, and Scatter charts to be selected properly for data visualization. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_13-data-analytics-data-visualization-guide-activity-7181167962513453056-h-jb?utm_source=share&utm_medium=member_desktop)
 
 ## 🤗 Vote of Thanks!
 I extend my heartfelt gratitude to the incredible LinkedIn community for the overwhelming support and engagement. Your likes, comments, and shares fuel my passion for sharing knowledge. Let's continue this learning journey together!
