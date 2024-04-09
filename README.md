@@ -37,6 +37,8 @@ This repository complements my LinkedIn Learning Series on Data Analytics Theory
 
 - **Outliers & Anomalies** - Guides you through the introduction, definition, effects, examples and tools used to detect the outliers and anomalies in the data. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_14-data-analytics-outliers-anomalies-activity-7182966795765493760-Pmib?utm_source=share&utm_medium=member_desktop)
 
+- **Relational Databases & SQL** - Introduces you to the concepts of Relational Databases and SQL along with the importance and use cases of the same. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_15-data-analytics-relational-databases-activity-7183410270566846464-9WPx?utm_source=share&utm_medium=member_desktop)
+
 ## 🤗 Vote of Thanks!
 I extend my heartfelt gratitude to the incredible LinkedIn community for the overwhelming support and engagement. Your likes, comments, and shares fuel my passion for sharing knowledge. Let's continue this learning journey together!
 
