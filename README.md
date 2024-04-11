@@ -39,6 +39,8 @@ This repository complements my LinkedIn Learning Series on Data Analytics Theory
 
 - **Relational Databases & SQL** - Introduces you to the concepts of Relational Databases and SQL along with the importance and use cases of the same. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_15-data-analytics-relational-databases-activity-7183410270566846464-9WPx?utm_source=share&utm_medium=member_desktop)
 
+- **Introduction to Databases** - Introduces you to the fundamental concepts of databases such as definition, tables, schema, metadata, DBMS and Types of Databases. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_16-data-analytics-introduction-to-databases-activity-7184072270485630976-Fe2H?utm_source=share&utm_medium=member_desktop)
+
 ## 🤗 Vote of Thanks!
 I extend my heartfelt gratitude to the incredible LinkedIn community for the overwhelming support and engagement. Your likes, comments, and shares fuel my passion for sharing knowledge. Let's continue this learning journey together!
 
