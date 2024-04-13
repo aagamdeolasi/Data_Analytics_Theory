@@ -41,6 +41,8 @@ This repository complements my LinkedIn Learning Series on Data Analytics Theory
 
 - **Introduction to Databases** - Introduces you to the fundamental concepts of databases such as definition, tables, schema, metadata, DBMS and Types of Databases. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_16-data-analytics-introduction-to-databases-activity-7184072270485630976-Fe2H?utm_source=share&utm_medium=member_desktop)
 
+- **Database Types & ERDs** - Covers details about the types of databases (Flat File, Relational & NoSQL Databases) along with the concept of ERDs. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_17-data-analytics-database-types-erds-activity-7184770501813190657-0vxD?utm_source=share&utm_medium=member_desktop)
+
 ## 🤗 Vote of Thanks!
 I extend my heartfelt gratitude to the incredible LinkedIn community for the overwhelming support and engagement. Your likes, comments, and shares fuel my passion for sharing knowledge. Let's continue this learning journey together!
 
