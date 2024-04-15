@@ -43,6 +43,8 @@ This repository complements my LinkedIn Learning Series on Data Analytics Theory
 
 - **Database Types & ERDs** - Covers details about the types of databases (Flat File, Relational & NoSQL Databases) along with the concept of ERDs. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_17-data-analytics-database-types-erds-activity-7184770501813190657-0vxD?utm_source=share&utm_medium=member_desktop)
 
+- **The SQL Guide** - These insights will guide you through the introduction, SQL commands used in SQL Queries, Logical Operators in SQL, Best Practices to be followed in SQL Queries, and some widely used functions in SQL. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_18-data-analytics-the-sql-guide-activity-7185520484761890816-Bhun?utm_source=share&utm_medium=member_desktop)
+
 ## 🤗 Vote of Thanks!
 I extend my heartfelt gratitude to the incredible LinkedIn community for the overwhelming support and engagement. Your likes, comments, and shares fuel my passion for sharing knowledge. Let's continue this learning journey together!
 
