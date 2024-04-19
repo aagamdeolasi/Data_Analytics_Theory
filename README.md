@@ -45,7 +45,9 @@ This repository complements my LinkedIn Learning Series on Data Analytics Theory
 
 - **The SQL Guide** - These insights will guide you through the introduction, SQL commands used in SQL Queries, Logical Operators in SQL, Best Practices to be followed in SQL Queries, and some widely used functions in SQL. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_18-data-analytics-the-sql-guide-activity-7185520484761890816-Bhun?utm_source=share&utm_medium=member_desktop)
 
-- **Relational Database Structure** - These insights will guide you through the Schema of the Database, Components of the Database Schema, Relationships in Database, Types of Relationships in the Database, Primary & Foreign Keys in Databases, and Data Types in Databases. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_19-data-analytics-relational-db-structure-activity-7186240756729221121-cmj8?utm_source=share&utm_medium=member_desktop)
+- **Relational Database Structure** - These insights will guide you through the Schema of the Database, Components of the Database Schema, Relationships in the Database, Types of Relationships in the Database, Primary & Foreign Keys in Databases, and Data Types in Databases. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_19-data-analytics-relational-db-structure-activity-7186240756729221121-cmj8?utm_source=share&utm_medium=member_desktop)
+
+- **The SQL Joins** - These insights will guide you through the introduction, importance, examples, and different types of SQL Joins. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_20-data-analytics-the-sql-joins-activity-7186992155922427904-rxBB?utm_source=share&utm_medium=member_desktop)
 
 ## 🤗 Vote of Thanks!
 I extend my heartfelt gratitude to the incredible LinkedIn community for the overwhelming support and engagement. Your likes, comments, and shares fuel my passion for sharing knowledge. Let's continue this learning journey together!
