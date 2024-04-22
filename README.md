@@ -49,6 +49,9 @@ This repository complements my LinkedIn Learning Series on Data Analytics Theory
 
 - **The SQL Joins** - These insights will guide you through the introduction, importance, examples, and different types of SQL Joins. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_20-data-analytics-the-sql-joins-activity-7186992155922427904-rxBB?utm_source=share&utm_medium=member_desktop)
 
+- **DDL, DML, DCL & TCL** - These insights will guide you through Database Language Elements, essential for managing databases and data within the Relational Database Management System (RDBMS). [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_21-data-analytics-ddl-dml-dcl-tcl-activity-7188043523982614529-vt6w?utm_source=share&utm_medium=member_desktop)
+
+
 ## 🤗 Vote of Thanks!
 I extend my heartfelt gratitude to the incredible LinkedIn community for the overwhelming support and engagement. Your likes, comments, and shares fuel my passion for sharing knowledge. Let's continue this learning journey together!
 
