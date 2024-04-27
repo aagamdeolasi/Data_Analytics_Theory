@@ -51,6 +51,9 @@ This repository complements my LinkedIn Learning Series on Data Analytics Theory
 
 - **DDL, DML, DCL & TCL** - These insights will guide you through Database Language Elements, essential for managing databases and data within the Relational Database Management System (RDBMS). [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_21-data-analytics-ddl-dml-dcl-tcl-activity-7188043523982614529-vt6w?utm_source=share&utm_medium=member_desktop)
 
+- **NoSQL Databases** - Get insights about the introduction, types, advantages, challenges, and real-world examples of NoSQL Databases. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_22-data-analytics-nosql-db-activity-7188778560516509696-JKYX?utm_source=share&utm_medium=member_desktop)
+
+- **The Tableau Dashboards** - This document guides you through topics like Introduction to Tableau, Types of Data for Dashboards, Advantages of Dashboards, and Best Practices for Dashboard Development. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_23-data-analytics-the-tableau-dashboards-activity-7189848676754690048-Vnrv?utm_source=share&utm_medium=member_desktop)
 
 ## 🤗 Vote of Thanks!
 I extend my heartfelt gratitude to the incredible LinkedIn community for the overwhelming support and engagement. Your likes, comments, and shares fuel my passion for sharing knowledge. Let's continue this learning journey together!
