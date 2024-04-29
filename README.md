@@ -55,6 +55,8 @@ This repository complements my LinkedIn Learning Series on Data Analytics Theory
 
 - **The Tableau Dashboards** - This document guides you through topics like Introduction to Tableau, Types of Data for Dashboards, Advantages of Dashboards, and Best Practices for Dashboard Development. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_23-data-analytics-the-tableau-dashboards-activity-7189848676754690048-Vnrv?utm_source=share&utm_medium=member_desktop)
 
+- **Bias & Ethics in Data Analysis** - This document covers insights about Bias in Data Analysis, its types and the importance of data privacy as well as security in detail. [![Static Badge](https://img.shields.io/badge/LinkedIn_Post-blue)](https://www.linkedin.com/posts/aagam-deolasi_24-data-analytics-bias-ethics-activity-7190622990248648704-QFI2?utm_source=share&utm_medium=member_desktop)
+
 ## 🤗 Vote of Thanks!
 I extend my heartfelt gratitude to the incredible LinkedIn community for the overwhelming support and engagement. Your likes, comments, and shares fuel my passion for sharing knowledge. Let's continue this learning journey together!
 
